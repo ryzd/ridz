@@ -2,7 +2,7 @@
 
 dc : ridz#1223
 
-# Discord-Technique
+# [Discord-Technique](https://github.com/ryzd/ridz/releases/tag/Discord-Technique)
 
 
 
