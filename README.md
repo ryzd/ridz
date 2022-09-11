@@ -1,2 +1,7 @@
 # ridz
-lis moi.
+
+
+
+dc : ridz#1223
+
+
